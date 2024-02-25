@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/face-validator/static/css/main.e6c13ad2.css",
+    "main.js": "/face-validator/static/js/main.1c5d515f.js",
+    "static/js/453.328b81a8.chunk.js": "/face-validator/static/js/453.328b81a8.chunk.js",
+    "static/media/logo.jpg": "/face-validator/static/media/logo.4642693be0303ec9e608.jpg",
+    "index.html": "/face-validator/index.html",
+    "main.e6c13ad2.css.map": "/face-validator/static/css/main.e6c13ad2.css.map",
+    "main.1c5d515f.js.map": "/face-validator/static/js/main.1c5d515f.js.map",
+    "453.328b81a8.chunk.js.map": "/face-validator/static/js/453.328b81a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c5d515f.js"
+  ]
+}
