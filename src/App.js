@@ -1,16 +1,16 @@
 import React from "react";
 import Webcam from "./components/Webcam";
 import Home from "./components/Home";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/home" element={<Home />} />
         <Route path="/" element={<Webcam />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
